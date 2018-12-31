@@ -1,0 +1,10 @@
+C:\Users\YaoRen\Desktop\ifelse\ifelse\bin\Debug\ifelse.exe.config
+C:\Users\YaoRen\Desktop\ifelse\ifelse\bin\Debug\ifelse.exe
+C:\Users\YaoRen\Desktop\ifelse\ifelse\bin\Debug\ifelse.pdb
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.csprojAssemblyReference.cache
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.Form1.resources
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.Properties.Resources.resources
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.csproj.GenerateResource.cache
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.exe
+C:\Users\YaoRen\Desktop\ifelse\ifelse\obj\Debug\ifelse.pdb
